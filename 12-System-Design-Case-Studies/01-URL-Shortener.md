@@ -8,7 +8,7 @@ We'll start with **01-URL-Shortener.md** and build it section by section. Each r
 
 ## Introduction → Requirements → Capacity Estimation
 
-````markdown
+
 # Design a URL Shortener
 
 ## Introduction
@@ -339,7 +339,8 @@ Next, we'll design the complete architecture, including:
 - Database Design
 - URL Generation Algorithms
 - End-to-End Request Flow
-````
+
+---
 
 This establishes the problem and scale before moving into the architecture, which is the natural next step in a system design interview.
 
