@@ -1,9 +1,3 @@
-Excellent. I recommend treating these case studies like a **book**, not individual notes. Each one should be comprehensive enough that after reading it once or twice, you can confidently answer that interview question.
-
-We'll start with **01-URL-Shortener.md** and build it section by section. Each response will continue the same markdown file until it's complete.
-
----
-
 # Part 1
 
 ## Introduction → Requirements → Capacity Estimation
@@ -341,6 +335,8 @@ Next, we'll design the complete architecture, including:
 - End-to-End Request Flow
 
 ---
+
+# Part 2
 
 This establishes the problem and scale before moving into the architecture, which is the natural next step in a system design interview.
 
@@ -857,6 +853,11 @@ Next, we'll dive into the most interesting parts of the design:
 - Replication & Sharding
 - Fault Tolerance
 - CDN Optimization
+
+---
+# Part 3
+
+## URL Generation → Cache Strategy → End-to-End Request Flow
 
 # URL Generation
 
@@ -1477,6 +1478,12 @@ Next, we'll cover:
 - Interview Questions
 - Key Takeaways
 
+---
+# Part 4 (Final)
+
+## Scaling → High Availability → Security → Trade-offs → Interview Preparation
+
+---
 # Scaling Strategy
 
 As traffic grows from thousands to billions of requests, every component must scale independently.
